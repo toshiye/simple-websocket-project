@@ -49,7 +49,7 @@ Start the backend server:
     cd backend
     npm run dev
 
-The server runs on ws://localhost:3001.
+The server runs on ws http://localhost:3001.
 
 Start the frontend client:
     cd frontend
